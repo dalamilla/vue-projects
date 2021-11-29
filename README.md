@@ -1,11 +1,14 @@
 # Vue Projects
 
-A list of simple Vue projects.
+A list of Vue projects.
 
 
 ## Projects
 
-|  #  | Name                               | Description                                     |
-| ----| -----------------------------------| ------------------------------------------------|
-|  01 | []()                               |                                                 |
-|  02 | []()                               |                                                 |
+|  #  | Name                                                | Description                              |
+| ----| ----------------------------------------------------| -----------------------------------------|
+|  01 | [Bin2Dec](./binary-to-decimal/README.md)            | Binary-to-Decimal number converter app.  |
+|  02 | [Border-radius](./border-radius/README.md)          | Border-radius previewer app.             |
+|  03 | [Christmas Lights](./christmas-lights/README.md)    | Christmas Lights app.                    |
+|  04 | [CSV2JSON ](./csv-to-json/README.md)                | CSV to JSON converter app.               |
+|  05 | [Quiz](./quiz/README.md)                            | Quiz app.                                |
