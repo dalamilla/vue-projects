@@ -1,6 +1,6 @@
 # Vue Projects
 
-A list of Vue projects.
+A list of Vue ecosystem projects.
 
 
 ## Projects
